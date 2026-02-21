@@ -14,9 +14,8 @@ O sistema utiliza **WebSockets** para comunicação em tempo real.
 ---
 
 ## 🚀 Demonstração ao Vivo
-Frontend: [https://map-app-frontend.vercel.app/](https://map-app-frontend.vercel.app/)  
-Backend: [https://map-app-realtime.onrender.com](https://map-app-realtime.onrender.com)  
-
+Frontend: [map-app-frontend-j0r1rkn8t-geniamarias-projects.vercel.app][https://map-app-frontend-j0r1rkn8t-geniamarias-projects.vercel.app/]
+Backend: [https://map-app-realtime.onrender.com]
 ---
 
 ## 🛠 Tecnologias Utilizadas
